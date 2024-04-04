@@ -1,6 +1,7 @@
 Airbnb Instant Booking Eligibility Prediction
 
 1 ABSTRACT:
+
 The travel and tourism industry are one of the world&#39;s great industrial sectors. It drives
 economic growth, creates jobs, improves social development, and promotes peace.
 Hundreds of millions of people around the world are dependent on the sector for their
@@ -13,6 +14,7 @@ The model will help hosts improve the performance, pricing, and amenities of the
 property to increase the likelihood of it being instantly bookable
 
 2 INTRODUCTION:
+
 Airbnb, is an American company that operates an online marketplace for lodging,
 primarily homestays for vacation rentals, and tourism activities. Based in San
 Francisco, California, the platform is accessible via website and mobile app. Airbnb
@@ -30,6 +32,7 @@ travel industry while promoting a sense of community and cultural exchange among
 its users.
 
 3 DATASET DESCRIPTION:
+
 The Airbnb listings dataset consist of 279712 rows and 33 columns. Where the dataset
 contains information about Airbnb listings in over 190 countries. The dataset includes
 information about the location of the listing, the price, the number of bedrooms and
