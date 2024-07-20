@@ -41,3 +41,5 @@ Since 2008, guests and hosts have used Airbnb to travel in a more unique,
 personalized way. As part of the Airbnb Inside initiative, this dataset describes the
 listing activity of homestays.There are totally 14 categorical variables and 19
 numerical
+Dataset drive Link: https://drive.google.com/file/d/1R5ysagrSBZTkkgrZ6K-ml0JhrATIDEoR/view?usp=drive_link
+
